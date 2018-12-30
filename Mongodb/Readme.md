@@ -1,4 +1,4 @@
-# Add MongoDB 4.0 repository to Fedora 29 
+``` Add MongoDB 4.0 repository to Fedora 29 Â´Â´Â´
 vi /etc/yum.repos.d/mongodb-org-4.0.repo
 
 
@@ -77,7 +77,7 @@ journal:
 enabled: true
 
 
-mongodb-org-server – This provides MongoDB daemon mongod
-mongodb-org-mongos – This is a MongoDB Shard daemon
-mongodb-org-shell – This provides a shell to MongoDB
-mongodb-org-tools – MongoDB tools used for export, dump, import e.t.c
+mongodb-org-server â€“ This provides MongoDB daemon mongod
+mongodb-org-mongos â€“ This is a MongoDB Shard daemon
+mongodb-org-shell â€“ This provides a shell to MongoDB
+mongodb-org-tools â€“ MongoDB tools used for export, dump, import e.t.c
