@@ -1,4 +1,4 @@
-``` Add MongoDB 4.0 repository to Fedora 29 ´´´
+´´´ Add MongoDB 4.0 repository to Fedora 29 ```
 vi /etc/yum.repos.d/mongodb-org-4.0.repo
 
 
